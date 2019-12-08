@@ -422,7 +422,7 @@ body.mobile .ed-logo-block.mobile-dark .logo-dark {
 	position: relative;
 	overflow: hidden;
 	padding: 4.5rem 0;
-	color: #545454;
+	color: #fff;
 }
 
 .site-footer .copyright {
@@ -440,7 +440,7 @@ body.mobile .ed-logo-block.mobile-dark .logo-dark {
 .site-footer .social-icon i,
 .site-footer .social-icon:hover,
 .site-footer .social-icon:hover i {
-	color: #545454;
+	color: #fff;
 }
 
 /*------------------------------------------------------------------
@@ -7543,7 +7543,7 @@ body.mobile .site-footer.footer-mobile-content-dark .social-icon:hover i {
 	.site-footer.footer-mobile-content-dark .social-icon i,
 	.site-footer.footer-mobile-content-dark .social-icon:hover,
 	.site-footer.footer-mobile-content-dark .social-icon:hover i {
-		color: #333;
+		color: #fff;
 	}
 
 }
